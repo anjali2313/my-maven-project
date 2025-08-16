@@ -6,5 +6,9 @@ public class HelloWorld {
 		System.out.println("Hello World!!!Welcome to my class");
 
 	}
-
+	//from b1 branch
+	public void m1() {
+		System.out.println("from method b1");
 }
+}
+	
