@@ -8,7 +8,11 @@ public class HelloWorld {
 	}
 	//from b1 branch
 	public void m1() {
-		System.out.println("hello from master");
+
+		System.out.println("hello from feature branch");
+
+		
+
 }
 	
 }
