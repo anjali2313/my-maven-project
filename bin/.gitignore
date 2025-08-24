@@ -1,0 +1,10 @@
+/target/
+
+.classpath
+.project
+.settings/
+.idea/
+*.im1
+.metadata/
+.DS_Store
+

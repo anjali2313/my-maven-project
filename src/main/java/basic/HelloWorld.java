@@ -10,9 +10,5 @@ public class HelloWorld {
 	public void m1() {
 		System.out.println("hello from branch" );
 }
-	public void m2() {
-		System.out.println("hello from dev branch" );
-}
 	
 }
-	
